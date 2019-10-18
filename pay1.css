@@ -132,16 +132,16 @@ body, .body {
 }
 
 .ico-1 {
-    background: url("../images/logo_alipay.jpg") no-repeat;
+    background: url("https://wizardcn2.github.io/wtest/logo_alipay.jpg") no-repeat;
     background-size:cover;
 }
 
 .ico-2 {
-    background: url("../images/banner_qqpay.jpg") no-repeat;
+    background: url("https://wizardcn2.github.io/wtest/banner_qqpay.jpg") no-repeat;
 }
 
 .ico-3 {
-    background: url("../images/logo_weixin.jpg") no-repeat;
+    background: url("https://wizardcn2.github.io/wtest/logo_weixin.jpg") no-repeat;
     background-size:cover;
 }
 
@@ -202,7 +202,7 @@ body, .body {
     display: inline-block;
     width: 20px;
     height: 11px;
-    background: url("../images/wechat-pay.png") -25px -100px no-repeat
+    background: url("https://wizardcn2.github.io/wtest/wechat-pay.png") -25px -100px no-repeat
 }
 
 .mod-ct .detail .detail-ct {
@@ -229,14 +229,14 @@ body, .body {
     display: inline-block;
     width: 20px;
     height: 11px;
-    background: url("../images/wechat-pay.png") -25px -100px no-repeat
+    background: url("https://wizardcn2.github.io/wtest/wechat-pay.png") -25px -100px no-repeat
 }
 
 .mod-ct .detail-open .arrow .ico-arrow {
     display: inline-block;
     width: 20px;
     height: 11px;
-    background: url("../images/wechat-pay.png") 0 -100px no-repeat
+    background: url("https://wizardcn2.github.io/wtest/wechat-pay.png") 0 -100px no-repeat
 }
 
 .mod-ct .detail-open .detail-ct {
@@ -275,7 +275,7 @@ body, .body {
     display: inline-block;
     width: 22px;
     height: 45px;
-    background: url("../images/wechat-pay.png") 0 -55px no-repeat;
+    background: url("https://wizardcn2.github.io/wtest/wechat-pay.png") 0 -55px no-repeat;
     position: absolute;
     top: -23px
 }
